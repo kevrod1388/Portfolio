@@ -1,3 +1,2 @@
 # Temporary-
-“I'm adding
-some text and then committing and then pushing to the remote repository. 
+Link to ASU598 Gesture Smart App Demo: https://www.youtube.com/watch?v=nFpPz20qGcw&t=28s
